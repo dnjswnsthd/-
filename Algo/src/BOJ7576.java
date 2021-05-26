@@ -49,6 +49,7 @@ public class BOJ7576 {
 				if(map[i][j] == 0) {
 					System.out.println(-1);
 					return;
+					
 				}else if(max < map[i][j]) max = map[i][j];
 			}
 		}
