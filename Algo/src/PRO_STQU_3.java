@@ -2,6 +2,8 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 // 프로그래머스 코딩테스트 연습 스택/큐 다리를 지나는 트럭
+// 각각 다리 상태를 나타낼 큐와 남은 트럭에 대한 큐를 만들어주고
+// 상황에 따라 처리를 해주어 해결
 
 public class PRO_STQU_3 {
 	public static int solution(int bridgeLength, int weight, int[] truckWeights) {
@@ -46,6 +48,6 @@ public class PRO_STQU_3 {
 		int a = 100;
 		int b = 100;
 		int[] c = {10,10,10,10,10,10,10,10,10,10};
-		System.out.println("ㅎㅇ : " + solution(a, b, c));
+		System.out.println(solution(a, b, c));
 	}
 }
