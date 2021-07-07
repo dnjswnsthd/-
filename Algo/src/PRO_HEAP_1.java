@@ -1,5 +1,7 @@
 import java.util.PriorityQueue;
 
+// 프로그래머스 코딩테스트 힙 더 맵게
+
 public class PRO_HEAP_1 {
 	public static int solution(int[] scoville, int K) {
         int answer = 0;
