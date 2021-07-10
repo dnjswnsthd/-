@@ -11,7 +11,7 @@ public class Pro_Greedy_2 {
 				answer += 'Z' - Math.abs(name.charAt(i)) + 1;
 			}
 			int tmp = i + 1;
-			while(tmp < name.length() - 1 && name.charAt(tmp) == 'A')
+			while(tmp < name.length() - 1 && name.charAt(tmp) == 'A') 
 				tmp++;
 			if(i + name.length() - tmp + i < min) {
 				min = i + name.length() - tmp + i;
