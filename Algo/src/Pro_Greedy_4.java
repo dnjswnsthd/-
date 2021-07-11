@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-// 프로그래머스 코딩테스트 연습 Greedy 구명보트
+//  
 
 public class Pro_Greedy_4 {
 	public static int solution(int[] people, int limit) {
