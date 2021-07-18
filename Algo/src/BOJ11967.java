@@ -5,6 +5,8 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
+
+// BOJ11967 불켜기 구현문제
 public class BOJ11967 {
 	static int n, m;
     static int[] dr = { -1, 0, 1, 0 }, dc = { 0, -1, 0, 1 };
