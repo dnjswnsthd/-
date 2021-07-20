@@ -12,7 +12,7 @@ public class Pro_단체사진찍기 {
 		condition = data;
 		map = new HashMap<>();
 		visited = new boolean[8];
-		chk = new int [8];
+		chk = new int [8]; 
 		answer = 0;
 		map.put('A',0); map.put('C',1);
 		map.put('F',2); map.put('J',3);
