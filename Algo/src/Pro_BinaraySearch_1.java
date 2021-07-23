@@ -8,12 +8,12 @@ public class Pro_BinaraySearch_1 {
 		long mid = 0;
 		long sum = 0;
 		long answer = max;
-		while(min <= max) {
+		while(min <= max) {  
 			sum = 0;
 			mid = (min + max) / 2;
 			System.out.println(mid);
 			for(int t : times) {
-				sum += mid / t; // 1 ¸í´ç ¸ÃÀ» ¼ö ÀÖ´Â ÀÔ±¹ÀÚ ¼ö
+				sum += mid / t; // 1 ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½ ï¿½Ô±ï¿½ï¿½ï¿½ ï¿½ï¿½
 			}
 			if(sum >= n) {
 				if(mid < answer) {
