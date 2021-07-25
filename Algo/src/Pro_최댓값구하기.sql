@@ -1,0 +1,3 @@
+// 프로그래머스 최댓값 구하기(SQL)
+SELECT MAX(DATETIME)
+FROM ANIMAL_INS
