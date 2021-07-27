@@ -76,13 +76,13 @@ public class SWEA1861 {
     public static boolean isInside(int x, int y) {
         return x>=0 && x<N && y>=0 && y<N;
     }
-}
-class Pair {
-    int x;
-    int y;
- 
-    Pair(int x, int y){
-        this.x=x;
-        this.y=y;
+    public static class Pair {
+        int x;
+        int y;
+     
+        Pair(int x, int y){
+            this.x=x;
+            this.y=y;
+        }
     }
 }

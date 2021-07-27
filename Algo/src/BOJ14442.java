@@ -67,13 +67,14 @@ public class BOJ14442 {
 	public static boolean arrange_chk(int row, int col) {
 		return (row >= 0 && row < n) && (col >= 0 && col < m);
 	}
-}
-class Pair {
-	int r, c, cnt, block;
-	public Pair(int r, int c, int cnt, int block) {
-		this.r = r;
-		this.c = c;
-		this.cnt = cnt;
-		this.block = block;
+	public static class Pair {
+		int r, c, cnt, block;
+		public Pair(int r, int c, int cnt, int block) {
+			this.r = r;
+			this.c = c;
+			this.cnt = cnt;
+			this.block = block;
+		}
 	}
 }
+

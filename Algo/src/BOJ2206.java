@@ -82,14 +82,13 @@ public class BOJ2206 {
 		if(map[r][c] == 1) return true;
 		else return false;
 	}
-}
-
-class Pair{
-	int r, c;
-	int cnt;
-	public Pair(int r, int c, int cnt) {
-		this.r = r;
-		this.c = c;
-		this.cnt = cnt;
+	public static class Pair{
+		int r, c;
+		int cnt;
+		public Pair(int r, int c, int cnt) {
+			this.r = r;
+			this.c = c;
+			this.cnt = cnt;
+		}
 	}
 }

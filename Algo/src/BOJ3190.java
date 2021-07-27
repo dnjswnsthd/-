@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 //2. 뱀의 머리가 있는 곳에 사과가 있으면 꼬리 위치는 유지
 //3. 뱀의 머리가 있는 곳에 사과가 없으면 꼬리 자름
 //4. 뱀의 머리가 있는 곳에 벽이나 뱀의 몸이 있으면 게임이 끝남.
-class Main {
+class BOJ3190 {
     private static int n, k, l;
     private static int[][] map;
     private static int[] time_arr;

@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main {
+public class BOJ10775 {
 	public static int g, p;
     public static int[] parent;
     public static void main(String[] argc) throws IOException {

@@ -109,13 +109,13 @@ public class BOJ2636 {
 		++cnt; // 횟수 추가
 		last = airQue.size(); // 치즈 개수
 	}
-}
-class pair {
-	int row;
-	int col;
+	public static class pair {
+		int row;
+		int col;
 
-	public pair(int row, int col) {
-		this.row = row;
-		this.col = col;
+		public pair(int row, int col) {
+			this.row = row;
+			this.col = col;
+		}
 	}
 }

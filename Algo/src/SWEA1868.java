@@ -77,13 +77,13 @@ public class SWEA1868 {
             }
         }
     }
-}
-class Pair {
-    int x;
-    int y;
-    public Pair(int x, int y) {
-        super();
-        this.x = x;
-        this.y = y;
+    public static class Pair {
+        int x;
+        int y;
+        public Pair(int x, int y) {
+            super();
+            this.x = x;
+            this.y = y;
+        }
     }
 }

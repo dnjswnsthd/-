@@ -87,13 +87,13 @@ public class BOJ2239 {
             System.out.println();
         }
     }
-}
-class Pair{
-    int x;
-    int y;
+    public static class Pair{
+        int x;
+        int y;
 
-    Pair(int x, int y){
-        this.x=x;
-        this.y=y;
+        Pair(int x, int y){
+            this.x=x;
+            this.y=y;
+        }
     }
 }

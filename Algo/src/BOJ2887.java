@@ -50,6 +50,20 @@ public class BOJ2887 {
         }
         System.out.println(cost);
     }
+    public static class Edge implements Comparable<Edge> {
+        int A, B;
+        int cost;
+        Edge(int A, int B, int cost) {
+
+            this.A = A;
+            this.B = B;
+            this.cost = cost;
+        }
+        @Override
+        public int compareTo(Edge o) {
+            return this.cost < o.cost ? -1 : 1;
+        }
+    }
 }
 class Planet {
     int x, y, z;
@@ -59,21 +73,6 @@ class Planet {
         this.y = y;
         this.z = z;
         this.idx = idx;
-    }
-}
-
-class Edge implements Comparable<Edge> {
-    int A, B;
-    int cost;
-    Edge(int A, int B, int cost) {
-
-        this.A = A;
-        this.B = B;
-        this.cost = cost;
-    }
-    @Override
-    public int compareTo(Edge o) {
-        return this.cost < o.cost ? -1 : 1;
     }
 }
 class UnionFind {
