@@ -6,8 +6,8 @@ public class PRO_SEARCH_3 {
 	public static int[] solution(int brown, int yellow) {
         int[] answer = new int[2];
         int sum = brown + yellow;
-        int width = 0, height = 3;
-        while(true) {
+		int width = 0, height = 3;
+    	while(true) {
         	if(sum % height == 0) {
         		width = sum / height;
         		if(yellow == (width-2) * (height-2)) {

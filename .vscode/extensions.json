@@ -1,5 +1,7 @@
 {
-    "recommendations": [
-        "redhat.java"
-    ]
+  "recommendations": [
+    "redhat.java",
+    "dotdevru.prettier-java",
+    "esbenp.prettier-vscode"
+  ]
 }
