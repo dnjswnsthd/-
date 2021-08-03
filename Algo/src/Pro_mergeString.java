@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.PriorityQueue;
 
 // 프로그래머스 코딩테스트 연습 2020 KAKAO BLIND TEST 문자열 압축
-public class Pro_문자열압축 {
+public class Pro_mergeString {
 	public static int solution(String s) {
 		PriorityQueue <Integer> answer = new PriorityQueue<Integer>();
 		ArrayList<String> tmp;

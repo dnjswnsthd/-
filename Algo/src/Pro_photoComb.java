@@ -2,7 +2,7 @@ import java.util.HashMap;
 
 // 프로그래머스 코딩테스트 연습 2017 카카오코드 본선 단체사진 찍기
 
-public class Pro_단체사진찍기 {
+public class Pro_photoComb {
 	static String [] condition;
 	static HashMap <Character, Integer> map;
 	static boolean [] visited;

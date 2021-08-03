@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.StringTokenizer;
 
 // 프로그래머스 level2 오픈채팅방
-public class Pro_오픈채팅방 {
+public class Pro_openChat {
     public static String [] solution(String [] record) {
         ArrayList<String> chat = new ArrayList<>();
         HashMap<String, String> user = new HashMap<>();
