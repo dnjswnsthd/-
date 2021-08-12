@@ -1,0 +1,5 @@
+-- 프로그래머스 코딩테스트 연습 중복 제거하기
+
+SELECT COUNT(DISTINCT NAME) AS 'COUNT'
+FROM ANIMAL_INS
+WHERE NAME is not NULL;
