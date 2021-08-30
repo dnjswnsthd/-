@@ -1,0 +1,6 @@
+-- 프로그래머스 코딩테스트 연습 우유와 요거트가 담긴 장바구니
+
+SELECT DISTINCT A.CART_ID
+FROM CART_PRODUCTS A, CART_PRODUCTS B
+WHERE A.CART_ID = B.CART_ID AND (A.NAME = 'Milk' AND B.NAME = 'Yogurt')
+ORDER BY A.CART_ID
