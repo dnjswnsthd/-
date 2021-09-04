@@ -4,6 +4,8 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
+// 프로그래머스 코딩테스트 연습 배달
+
 public class Pro_delivery {
     public static int solution(int N, int[][] road, int K) {
         final int MAX = 1000000;
