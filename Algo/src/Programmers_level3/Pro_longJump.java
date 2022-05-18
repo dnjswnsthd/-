@@ -1,3 +1,5 @@
+package Programmers_level3;
+
 /*
 * 프로그래머스 > 멀리 뛰기
 * 22.04.09

@@ -1,3 +1,5 @@
+package Programmers_level1_2;
+
 import java.util.*;
 /*
 * 프로그래머스 > 코딩테스트 연습 > 월간 코드 챌린지 시즌3 > n^2 배열 자르기

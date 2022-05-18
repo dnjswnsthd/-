@@ -1,3 +1,4 @@
+package Programmers_level3;
 import java.util.*;
 /*
 * 코딩테스트 연습 > 월간 코드 챌린지 시즌2 > 110 옮기기

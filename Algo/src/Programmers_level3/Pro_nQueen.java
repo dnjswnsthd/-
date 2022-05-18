@@ -1,3 +1,4 @@
+package Programmers_level3;
 /*
 * 프로그래머스 > 연습문제 > n-queen
 * 22.04.17

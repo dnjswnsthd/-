@@ -1,3 +1,4 @@
+package Programmers_level3;
 /*
 * 프로그래머스 > 보행자 천국
 * 22.04.23

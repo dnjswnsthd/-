@@ -1,3 +1,4 @@
+package Programmers_level3;
 import java.util.*;
 /*
  * 프로그래머스 > 스티커 모으기(2)

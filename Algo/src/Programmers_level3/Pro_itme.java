@@ -1,3 +1,5 @@
+package Programmers_level3;
+
 /*
 * 프로그래머스 > 위클리 > 아이템 줍기
 * 22.03.29

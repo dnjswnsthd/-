@@ -1,6 +1,7 @@
+package Programmers_level3;
 /*
  * 프로그래머스 > 기지국 설치
- * 22.04.15 > 효율성 22.04.21
+ * 22.04.15 > �슚�쑉�꽦 22.04.21
  */
 class Pro_eleD {
     public int solution(int n, int[] stations, int w) {

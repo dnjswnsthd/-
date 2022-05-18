@@ -1,3 +1,4 @@
+package Programmers_level3;
 /*
 * 프로그래머스 > 코딩테스트 연습 > 연습문제 > 2XN 타일링
 * 22.03.28

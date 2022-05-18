@@ -1,3 +1,5 @@
+package Programmers_level1_2;
+
 import java.util.*;
 /*
 * 프로그래머스 > 코딩테슽 연습 > 22kakao블라인드 > 주차 요금 계산

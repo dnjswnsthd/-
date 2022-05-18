@@ -1,3 +1,4 @@
+package Programmers_level1_2;
 /*
 * 코딩테스트 연습 > 위클리 챌린지 > 피로도
 * 2022-03-10

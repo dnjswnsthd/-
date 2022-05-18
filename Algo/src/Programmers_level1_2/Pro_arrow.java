@@ -1,3 +1,5 @@
+package Programmers_level1_2;
+
 /*
 * 프로그래머스 > 코딩테스트 연습 > 카카오 > 양궁
 * 22.03.21

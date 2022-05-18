@@ -1,3 +1,4 @@
+package Programmers_level3;
 /*
 * 프로그래머스 > 코테 > sum/win > 숫자 게임
 * 22.04.07
