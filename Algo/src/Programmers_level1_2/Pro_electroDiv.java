@@ -1,8 +1,12 @@
-import java.util.*;
+package Programmers_level1_2;
 /*
- * í”„ë¡œê·¸ëž˜ë¨¸ìŠ¤ > ì½”ë”©í…ŒìŠ¤íŠ¸ ì—°ìŠµ > ìœ„í´ë¦¬ ì±Œë¦°ì§€ > ì „ë ¥ë§ì„ ë‘˜ë¡œ ë‚˜ëˆ„ê¸°
+ * ÇÁ·Î±×·¡¸Ó½º > ÄÚµùÅ×½ºÆ® ¿¬½À > À§Å¬¸® Ã§¸°Áö > Àü·Â¸ÁÀ» µÑ·Î ³ª´©±â
  * 22.03.15
  */
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
 
 class Pro_electroDiv {
     public List<Integer>[] list;
