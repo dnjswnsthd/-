@@ -32,6 +32,7 @@ public class SWEA1238 {
 			System.out.println("#" + t + " " + bfs(start));
 		}
 	}
+	
 	public static int bfs(int start) {
 		int [] visited = new int[graph.length];
 		int max = 0, res = 0;
