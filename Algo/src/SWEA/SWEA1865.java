@@ -7,6 +7,7 @@ import java.util.StringTokenizer;
 /*
  * SWEA 1865 동철이의 일 분배
  * 22.06.16
+ * 부분 집합으로 풀이
  */
 public class SWEA1865 {
 	public static int N;
