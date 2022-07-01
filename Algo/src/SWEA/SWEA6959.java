@@ -3,7 +3,10 @@ package SWEA;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
+/*
+ * SWEA6959
+ * 22.07.01
+ */
 public class SWEA6959 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
