@@ -1,9 +1,13 @@
 package SWEA;
 
 import java.io.BufferedReader;
+import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
-
+/*
+ * SWEA2112
+ * 22.07.03
+ */
 public class SWEA2112 {
 	static int D, W, K;
 	static int[][] map;
